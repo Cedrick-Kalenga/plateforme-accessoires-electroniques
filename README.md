@@ -4,6 +4,7 @@ Plateforme e-commerce développée avec Django.
 
 ## Installation
 ```bash
+
 git clone https://github.com/ton-username/plateforme-accessoires-electroniques.git
 
 cd plateforme-accessoires-electroniques
